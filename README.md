@@ -39,3 +39,4 @@ if __name__=='__main__':
     print(f"end mining.mining took:{total_time} seconds")
     print(new_hash)
         
+# hi this is a bitcoin minor using python
